@@ -4,7 +4,7 @@ Complete step-by-step installation instructions for Windows, macOS, and Linux.
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🗄️ Step 1: Database Setup
+##  Step 1: Database Setup
 
 ### 1.1 Start MySQL Service
 
