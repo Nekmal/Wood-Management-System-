@@ -296,7 +296,7 @@ You can now view wood-inventory-frontend in the browser.
 
 ---
 
-## 🎯 Step 4: Testing the System
+##  Step 4: Testing the System
 
 ### 4.1 Create First User
 
