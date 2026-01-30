@@ -348,7 +348,7 @@ VALUES (
 
 ---
 
-## 🚀 Step 5: Production Deployment
+##  Step 5: Production Deployment
 
 ### 5.1 Backend Deployment
 
@@ -406,7 +406,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ---
 
-## 🔒 Step 6: Security Checklist
+##  Step 6: Security Checklist
 
 - [ ] Change default passwords
 - [ ] Update JWT_SECRET to a strong random string
@@ -421,7 +421,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Issues
 
