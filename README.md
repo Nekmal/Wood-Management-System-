@@ -525,7 +525,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🗄️ Step 1: Database Setup
+##  Step 1: Database Setup
 
 ### 1.1 Start MySQL Service
 
@@ -587,7 +587,7 @@ SOURCE /path/to/database_schema.sql;
 
 ---
 
-## 🔧 Step 2: Backend Setup
+##  Step 2: Backend Setup
 
 ### 2.1 Create Backend Directory
 
@@ -681,7 +681,7 @@ curl http://localhost:3000/api/inventory
 
 ---
 
-## ⚛️ Step 3: Frontend Setup
+##  Step 3: Frontend Setup
 
 ### 3.1 Create React App
 
