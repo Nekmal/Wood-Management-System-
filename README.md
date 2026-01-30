@@ -182,7 +182,7 @@ curl http://localhost:3000/api/inventory
 
 ---
 
-## ⚛️ Step 3: Frontend Setup
+##  Step 3: Frontend Setup
 
 ### 3.1 Create React App
 
@@ -473,7 +473,7 @@ npm run build
 
 ---
 
-## 📞 Support
+##  Support
 
 If you encounter any issues:
 
