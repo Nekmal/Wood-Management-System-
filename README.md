@@ -795,7 +795,7 @@ You can now view wood-inventory-frontend in the browser.
 
 ---
 
-## 🎯 Step 4: Testing the System
+##  Step 4: Testing the System
 
 ### 4.1 Create First User
 
@@ -847,7 +847,7 @@ VALUES (
 
 ---
 
-## 🚀 Step 5: Production Deployment
+##  Step 5: Production Deployment
 
 ### 5.1 Backend Deployment
 
@@ -920,7 +920,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Issues
 
