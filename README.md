@@ -599,14 +599,14 @@ mkdir backend
 cd backend
 ```
 
-### 2.2 Initialize Node.js Project
+###  2.2 Initialize Node.js Project
 
 ```bash
 # Initialize npm
 npm init -y
 ```
 
-### 2.3 Install Dependencies
+###  2.3 Install Dependencies
 
 ```bash
 # Install all required packages
@@ -616,7 +616,7 @@ npm install express mysql2 bcrypt jsonwebtoken cors multer dotenv
 npm install --save-dev nodemon
 ```
 
-### 2.4 Create Project Files
+###  2.4 Create Project Files
 
 Create the following files in the `backend` directory:
 
@@ -667,13 +667,13 @@ npm start
 npm run dev
 ```
 
-**Expected output:**
+** Expected output:**
 ```
 Wood Inventory API Server running on port 3000
 http://localhost:3000
 ```
 
-**Test the API:**
+** Test the API:**
 ```bash
 # In a new terminal
 curl http://localhost:3000/api/inventory
