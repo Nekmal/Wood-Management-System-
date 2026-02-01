@@ -4,7 +4,7 @@ Complete step-by-step installation instructions for Windows, macOS, and Linux.
 
 ---
 
-##  Prerequisites
+##   Prerequisites
 
 Before you begin, ensure you have the following installed:
 
