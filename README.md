@@ -408,9 +408,9 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ##  Step 6: Security Checklist
 
-- [ ] Change default passwords
-- [ ] Update JWT_SECRET to a strong random string
-- [ ] Enable HTTPS in production
+-  Change default passwords
+-  Update JWT_SECRET to a strong random string
+-  Enable HTTPS in production
 - [ ] Set up firewall rules
 - [ ] Regular database backups
 - [ ] Update dependencies regularly
