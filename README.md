@@ -417,7 +417,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 -  Enable CORS only for trusted domains
 -  Implement rate limiting
 -  Use environment variables for all secrets
-- [ ] Set up monitoring and logging
+-  Set up monitoring and logging
 
 ---
 
